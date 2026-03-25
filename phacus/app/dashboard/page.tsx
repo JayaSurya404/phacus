@@ -147,14 +147,7 @@ export default function Dashboard() {
       </div>
 
       {/* 🚀 Button */}
-      <div className="flex justify-center">
-        <button
-          onClick={() => router.push("/inventory")}
-          className="px-6 py-2 bg-purple-600 rounded-xl hover:bg-purple-700 text-sm font-medium"
-        >
-          Go to Inventory
-        </button>
-        <div className="flex justify-center gap-4">
+      <div className="flex justify-center gap-4">
   <button
     onClick={() => router.push("/inventory")}
     className="px-5 py-2 bg-purple-600 rounded-lg text-sm"
@@ -169,7 +162,6 @@ export default function Dashboard() {
     Billing 💰
   </button>
 </div>
-      </div>
     </div>
   );
 }

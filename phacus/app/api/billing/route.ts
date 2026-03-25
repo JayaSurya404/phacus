@@ -39,7 +39,6 @@ export async function POST(req: Request) {
       );
     }
 
-    // reduce stock
     med.stock -= item.quantity;
     await med.save();
 
@@ -53,4 +52,17 @@ export async function POST(req: Request) {
   });
 
   return NextResponse.json(bill);
+}
+
+// ✅ GET ALL BILLS
+export async function GET() {
+  await connectDB();
+
+  const userId = await getUserId();
+  if (!userId)
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+
+  const bills = await Bill.find({ ownerId: userId }).sort({ createdAt: -1 });
+
+  return NextResponse.json(bills);
 }
