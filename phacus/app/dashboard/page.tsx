@@ -154,6 +154,21 @@ export default function Dashboard() {
         >
           Go to Inventory
         </button>
+        <div className="flex justify-center gap-4">
+  <button
+    onClick={() => router.push("/inventory")}
+    className="px-5 py-2 bg-purple-600 rounded-lg text-sm"
+  >
+    Inventory
+  </button>
+
+  <button
+    onClick={() => router.push("/billing")}
+    className="px-5 py-2 bg-green-600 rounded-lg text-sm"
+  >
+    Billing 💰
+  </button>
+</div>
       </div>
     </div>
   );
