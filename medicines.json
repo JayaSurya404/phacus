@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "Paracetamol",
+    "stock": 39,
+    "price": 161,
+    "expiryDate": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Dolo 650",
+    "stock": 43,
+    "price": 174,
+    "expiryDate": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Crocin",
+    "stock": 24,
+    "price": 235,
+    "expiryDate": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ibuprofen",
+    "stock": 24,
+    "price": 129,
+    "expiryDate": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Amoxicillin",
+    "stock": 21,
+    "price": 81,
+    "expiryDate": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Azithromycin",
+    "stock": 38,
+    "price": 116,
+    "expiryDate": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ciprofloxacin",
+    "stock": 49,
+    "price": 269,
+    "expiryDate": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Metformin",
+    "stock": 14,
+    "price": 283,
+    "expiryDate": {
+      "$date": "2026-06-25T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Aspirin",
+    "stock": 25,
+    "price": 149,
+    "expiryDate": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Atorvastatin",
+    "stock": 19,
+    "price": 145,
+    "expiryDate": {
+      "$date": "2026-07-04T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Pantoprazole",
+    "stock": 30,
+    "price": 287,
+    "expiryDate": {
+      "$date": "2026-07-23T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Omeprazole",
+    "stock": 32,
+    "price": 197,
+    "expiryDate": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ranitidine",
+    "stock": 24,
+    "price": 177,
+    "expiryDate": {
+      "$date": "2026-07-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Cetirizine",
+    "stock": 13,
+    "price": 60,
+    "expiryDate": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Levocetirizine",
+    "stock": 24,
+    "price": 178,
+    "expiryDate": {
+      "$date": "2026-06-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Montelukast",
+    "stock": 14,
+    "price": 77,
+    "expiryDate": {
+      "$date": "2026-06-09T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Losartan",
+    "stock": 30,
+    "price": 236,
+    "expiryDate": {
+      "$date": "2026-07-09T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Amlodipine",
+    "stock": 48,
+    "price": 265,
+    "expiryDate": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Clopidogrel",
+    "stock": 19,
+    "price": 232,
+    "expiryDate": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Warfarin",
+    "stock": 32,
+    "price": 172,
+    "expiryDate": {
+      "$date": "2026-07-12T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Insulin",
+    "stock": 41,
+    "price": 256,
+    "expiryDate": {
+      "$date": "2026-06-21T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Glimepiride",
+    "stock": 15,
+    "price": 63,
+    "expiryDate": {
+      "$date": "2026-07-04T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Gliclazide",
+    "stock": 30,
+    "price": 244,
+    "expiryDate": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Sitagliptin",
+    "stock": 49,
+    "price": 240,
+    "expiryDate": {
+      "$date": "2026-07-03T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Vildagliptin",
+    "stock": 30,
+    "price": 115,
+    "expiryDate": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Diclofenac",
+    "stock": 21,
+    "price": 240,
+    "expiryDate": {
+      "$date": "2026-07-27T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Naproxen",
+    "stock": 23,
+    "price": 65,
+    "expiryDate": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Tramadol",
+    "stock": 33,
+    "price": 136,
+    "expiryDate": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Codeine",
+    "stock": 11,
+    "price": 40,
+    "expiryDate": {
+      "$date": "2026-07-13T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Cefixime",
+    "stock": 49,
+    "price": 207,
+    "expiryDate": {
+      "$date": "2026-07-17T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ceftriaxone",
+    "stock": 17,
+    "price": 201,
+    "expiryDate": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Levofloxacin",
+    "stock": 37,
+    "price": 240,
+    "expiryDate": {
+      "$date": "2026-07-29T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ofloxacin",
+    "stock": 34,
+    "price": 140,
+    "expiryDate": {
+      "$date": "2026-06-28T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Fluconazole",
+    "stock": 18,
+    "price": 268,
+    "expiryDate": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ketoconazole",
+    "stock": 47,
+    "price": 208,
+    "expiryDate": {
+      "$date": "2026-07-05T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Salbutamol",
+    "stock": 50,
+    "price": 196,
+    "expiryDate": {
+      "$date": "2026-06-15T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Budesonide",
+    "stock": 10,
+    "price": 167,
+    "expiryDate": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Vitamin C",
+    "stock": 23,
+    "price": 201,
+    "expiryDate": {
+      "$date": "2026-07-27T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Vitamin D",
+    "stock": 22,
+    "price": 62,
+    "expiryDate": {
+      "$date": "2026-06-14T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Calcium Tablets",
+    "stock": 39,
+    "price": 197,
+    "expiryDate": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Zinc Tablets",
+    "stock": 17,
+    "price": 123,
+    "expiryDate": {
+      "$date": "2026-06-06T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Iron Tablets",
+    "stock": 18,
+    "price": 228,
+    "expiryDate": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Folic Acid",
+    "stock": 39,
+    "price": 282,
+    "expiryDate": {
+      "$date": "2026-06-29T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Rabeprazole",
+    "stock": 12,
+    "price": 142,
+    "expiryDate": {
+      "$date": "2026-07-02T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Esomeprazole",
+    "stock": 19,
+    "price": 255,
+    "expiryDate": {
+      "$date": "2026-07-25T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Domperidone",
+    "stock": 50,
+    "price": 155,
+    "expiryDate": {
+      "$date": "2026-06-17T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ondansetron",
+    "stock": 20,
+    "price": 133,
+    "expiryDate": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Loperamide",
+    "stock": 17,
+    "price": 202,
+    "expiryDate": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "ORS Powder",
+    "stock": 35,
+    "price": 91,
+    "expiryDate": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "stock": 29,
+    "price": 219,
+    "expiryDate": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Prednisolone",
+    "stock": 28,
+    "price": 276,
+    "expiryDate": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Dexamethasone",
+    "stock": 10,
+    "price": 156,
+    "expiryDate": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Betamethasone",
+    "stock": 20,
+    "price": 221,
+    "expiryDate": {
+      "$date": "2026-06-19T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Clindamycin",
+    "stock": 21,
+    "price": 197,
+    "expiryDate": {
+      "$date": "2026-07-22T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Erythromycin",
+    "stock": 21,
+    "price": 75,
+    "expiryDate": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Linezolid",
+    "stock": 36,
+    "price": 125,
+    "expiryDate": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Meropenem",
+    "stock": 45,
+    "price": 33,
+    "expiryDate": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Imipenem",
+    "stock": 43,
+    "price": 42,
+    "expiryDate": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Vancomycin",
+    "stock": 36,
+    "price": 61,
+    "expiryDate": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Teicoplanin",
+    "stock": 21,
+    "price": 214,
+    "expiryDate": {
+      "$date": "2026-07-12T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Risperidone",
+    "stock": 14,
+    "price": 53,
+    "expiryDate": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Olanzapine",
+    "stock": 48,
+    "price": 295,
+    "expiryDate": {
+      "$date": "2026-07-05T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Haloperidol",
+    "stock": 21,
+    "price": 136,
+    "expiryDate": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Diazepam",
+    "stock": 23,
+    "price": 244,
+    "expiryDate": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Lorazepam",
+    "stock": 14,
+    "price": 194,
+    "expiryDate": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Alprazolam",
+    "stock": 30,
+    "price": 47,
+    "expiryDate": {
+      "$date": "2026-06-28T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Sertraline",
+    "stock": 40,
+    "price": 70,
+    "expiryDate": {
+      "$date": "2026-07-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Fluoxetine",
+    "stock": 47,
+    "price": 260,
+    "expiryDate": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Escitalopram",
+    "stock": 17,
+    "price": 226,
+    "expiryDate": {
+      "$date": "2026-07-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Atenolol",
+    "stock": 38,
+    "price": 174,
+    "expiryDate": {
+      "$date": "2026-06-15T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Propranolol",
+    "stock": 19,
+    "price": 77,
+    "expiryDate": {
+      "$date": "2026-07-29T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Carvedilol",
+    "stock": 49,
+    "price": 184,
+    "expiryDate": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Spironolactone",
+    "stock": 42,
+    "price": 99,
+    "expiryDate": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Furosemide",
+    "stock": 40,
+    "price": 236,
+    "expiryDate": {
+      "$date": "2026-06-14T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Torsemide",
+    "stock": 24,
+    "price": 66,
+    "expiryDate": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "stock": 49,
+    "price": 223,
+    "expiryDate": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Enalapril",
+    "stock": 33,
+    "price": 212,
+    "expiryDate": {
+      "$date": "2026-07-03T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Ramipril",
+    "stock": 41,
+    "price": 145,
+    "expiryDate": {
+      "$date": "2026-06-06T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Telmisartan",
+    "stock": 24,
+    "price": 98,
+    "expiryDate": {
+      "$date": "2026-06-22T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Valsartan",
+    "stock": 38,
+    "price": 242,
+    "expiryDate": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Glucose Powder",
+    "stock": 27,
+    "price": 42,
+    "expiryDate": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "ORS Sachet",
+    "stock": 33,
+    "price": 144,
+    "expiryDate": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Multivitamin",
+    "stock": 32,
+    "price": 210,
+    "expiryDate": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "B Complex",
+    "stock": 47,
+    "price": 41,
+    "expiryDate": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Thyroxine",
+    "stock": 31,
+    "price": 208,
+    "expiryDate": {
+      "$date": "2026-07-07T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Carbimazole",
+    "stock": 22,
+    "price": 94,
+    "expiryDate": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Methimazole",
+    "stock": 20,
+    "price": 229,
+    "expiryDate": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Insulin Glargine",
+    "stock": 42,
+    "price": 147,
+    "expiryDate": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Insulin Lispro",
+    "stock": 40,
+    "price": 269,
+    "expiryDate": {
+      "$date": "2026-06-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Heparin",
+    "stock": 17,
+    "price": 123,
+    "expiryDate": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Dabigatran",
+    "stock": 21,
+    "price": 135,
+    "expiryDate": {
+      "$date": "2026-07-20T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Apixaban",
+    "stock": 50,
+    "price": 154,
+    "expiryDate": {
+      "$date": "2026-07-21T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Rivaroxaban",
+    "stock": 21,
+    "price": 182,
+    "expiryDate": {
+      "$date": "2026-07-10T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Chloroquine",
+    "stock": 40,
+    "price": 80,
+    "expiryDate": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Artemether",
+    "stock": 29,
+    "price": 117,
+    "expiryDate": {
+      "$date": "2026-06-08T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Lumefantrine",
+    "stock": 38,
+    "price": 277,
+    "expiryDate": {
+      "$date": "2026-06-18T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Doxycycline",
+    "stock": 15,
+    "price": 277,
+    "expiryDate": {
+      "$date": "2026-07-15T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Minocycline",
+    "stock": 10,
+    "price": 81,
+    "expiryDate": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Tetracycline",
+    "stock": 31,
+    "price": 173,
+    "expiryDate": {
+      "$date": "2026-07-25T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  },
+  {
+    "name": "Gentamicin",
+    "stock": 18,
+    "price": 124,
+    "expiryDate": {
+      "$date": "2026-07-11T00:00:00Z"
+    },
+    "ownerId": {
+      "$oid": "69c41197b01a1c33e5f747db"
+    }
+  }
+]
